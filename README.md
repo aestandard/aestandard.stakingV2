@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+![GitHub Logo](/github1.png)
+[Website](https://aestandard.finance) | [Twitter](https://twitter.com/aestandardfi) | [Telegram](https://t.me/aestandard)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+# ÆStandard Finance Technologies
 
-Try running some of the following tasks:
+### Cryptoasset Staking (EVM) Smart Contracts Version 2.0
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+#### Libraries include but not limited to
+* Hardhat
+* Ethers.js
+* Openzeppelin
+* Chai
+* Waffle
+
+[Disclaimer](https://github.com/aestandard/aestandard.pools/blob/main/Disclaimer.md)
